@@ -1,0 +1,18 @@
+// multer upload single array fields 
+
+
+///1. inro multer +upload image
+single
+array
+fields
+
+type
+// ================= cloudinray
+
+// intro to cloudinray 
+
+//upload img 
+// singup
+// delete profile pic 
+// update profile pic 
+
