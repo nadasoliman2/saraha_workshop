@@ -6,9 +6,7 @@
   "scripts": {
     "start:dev": "node --watch ./src/main.js"
   },
-  "engines": {
-    "node": "26.x"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
